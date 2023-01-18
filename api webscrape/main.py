@@ -44,3 +44,12 @@ import os
 
 
 
+# response = requests.post(url, json=data_1)
+
+# print(response.status_code)
+
+# with open('scrapy_scraped_data/scrapy_scraped_data/finviz.txt','r+')as file:
+#     file.truncate(0)
+      
+    
+os.system("")
