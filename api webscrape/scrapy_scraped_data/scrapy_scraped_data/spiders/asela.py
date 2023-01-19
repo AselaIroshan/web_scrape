@@ -1,6 +1,6 @@
 import scrapy
 
-class ExampleSpider(scrapy.Spider):
+class finviz(scrapy.Spider):
     name = "fin"
     start_urls = [
         'https://finviz.com/',
