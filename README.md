@@ -1,4 +1,4 @@
-###Rewrite the entire code from scratch.v2
+#Rewrite the entire code from scratch.v2
 *New features 
       *add sms api
       *store data in Google sheet using custome API
