@@ -7,6 +7,6 @@ To work with this, should add the js file of code to the Google sheet custome sc
 more details  "https://github.com/onescales/google-sheet-api"
 
 
-and Google sheet looks like this
+and Google sheet looks like this after post data
 ![alt text](data.png)
 
