@@ -4,7 +4,8 @@
       store data in Google sheet using custome API
 
 To work with this, should add the js file of code to the Google sheet custome script.
-more details  "https://github.com/onescales/google-sheet-api"
+more details  
+> "https://github.com/onescales/google-sheet-api"
 
 
 and Google sheet looks like this after post data
