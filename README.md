@@ -11,6 +11,6 @@ more details
 and Google sheet looks like this after post data
 ![alt text](data.png)
 
-BIG O is 0(1) .Becouse alwasys loop 38 *5 times.
-     * 38 is html trees
-     * 4  is html divs
+### BIG O is 0(1) .Becouse alwasys loop 38 *5 times.
+     > 38 is html trees
+     > 4  is html divs
