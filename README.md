@@ -1,7 +1,7 @@
-Rewrite entire code from scrach.v2
-*new featurs 
+Rewrite the entire code from scratch.v2
+*new features 
       *add sms api
-      *store data in google sheet using custome api
+      *store data in Google sheet using customer API
 
-and google sheet look like this
-
+and Google sheet looks like this
+![alt text](data.png)
